@@ -1,0 +1,6 @@
+D:\Git\CS-Datastructure-Algorithm\Datastructure\bin\Debug\Datastructure.exe
+D:\Git\CS-Datastructure-Algorithm\Datastructure\bin\Debug\Datastructure.pdb
+D:\Git\CS-Datastructure-Algorithm\Datastructure\obj\Debug\Datastructure.csprojAssemblyReference.cache
+D:\Git\CS-Datastructure-Algorithm\Datastructure\obj\Debug\Datastructure.csproj.CoreCompileInputs.cache
+D:\Git\CS-Datastructure-Algorithm\Datastructure\obj\Debug\Datastructure.exe
+D:\Git\CS-Datastructure-Algorithm\Datastructure\obj\Debug\Datastructure.pdb
